@@ -1,0 +1,5 @@
+pointer
+{
+int a,b;
+pointer*={"the given pointer is a,b};
+}
